@@ -78,12 +78,11 @@
 
 ## 🎯 What I'm Currently Working On
 
-- 🌐 Building responsive websites using **HTML, CSS & JavaScript**
+- 🌐 Building responsive websites using **HTML, CSS 
 - 📊 Improving my **Power BI** and **SQL** skills
 - 🤖 Exploring **Machine Learning** and **Deep Learning**
 - 🚀 Creating real-world data analytics and web development projects
 
----
 ---
 
 ## 📊 GitHub Stats
@@ -121,9 +120,8 @@
 ## 🌱 Currently Learning
 
 - 🌐 React.js
-- ⚡ JavaScript (Advanced)
+- ⚡ JavaScript 
 - 📊 Power BI
-- 🗄️ SQL
 - 🤖 Machine Learning & Deep Learning
 - 💻 Data Structures & Algorithms
 
