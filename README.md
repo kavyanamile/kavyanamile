@@ -84,6 +84,77 @@
 - 🚀 Creating real-world data analytics and web development projects
 
 ---
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kavyanamile&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyanamile&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=kavyanamile&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyanamile&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- 🌐 React.js
+- ⚡ JavaScript (Advanced)
+- 📊 Power BI
+- 🗄️ SQL
+- 🤖 Machine Learning & Deep Learning
+- 💻 Data Structures & Algorithms
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/kavyanamile">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/namile-kavya-7104bb2a1/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=twinkling"/>
+</p>
+
+<p align="center">
+<b>⭐ If you like my projects, don't forget to star my repositories! ⭐</b>
+
+💡 <i>"Turning Data into Meaningful Insights & Building Modern Web Applications."</i>
+
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=twinkling"/>
@@ -93,6 +164,3 @@
   <b>💡 "Turning Data into Meaningful Insights & Building Modern Web Applications." 🚀</b>
 </p>
 
-<
-- ⚡ Fun fact: ...
--->
