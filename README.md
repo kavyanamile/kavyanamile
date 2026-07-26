@@ -150,7 +150,7 @@
 <p align="center">
 <b>⭐ If you like my projects, don't forget to star my repositories! ⭐</b>
 
-💡 <i>"Turning Data into Meaningful Insights & Building Modern Web Applications."</i>
+💡               <i>"Turning Data into Meaningful Insights & Building Modern Web Applications."</i>
 
 </p>
 
