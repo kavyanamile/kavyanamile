@@ -156,11 +156,3 @@
 
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=twinkling"/>
-</p>
-
-<p align="center">
-  <b>💡 "Turning Data into Meaningful Insights & Building Modern Web Applications." 🚀</b>
-</p>
-
