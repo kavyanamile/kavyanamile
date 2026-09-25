@@ -20,13 +20,13 @@
 
 🎓 **B.Tech Data Science Student** ,Hyderabad, India
 
-🎯 Aspiring **Data Analyst, Web Developer & Python Developer**
+🎯 Aspiring **Web Developer**
 
-🔍 Passionate about solving real-world problems using **Data Analytics, Machine Learning, AI, and Web Technologies**
+🔍 Passionate about solving real-world problems using **Web Technologies**
 
 📊 Skilled in building data-driven applications, interactive dashboards, and responsive web interfaces.
 
-🤝 Open to **Data Analyst, Python Developer, Web Developer, and Machine Learning** opportunities.
+🤝 Open to **Web Developer** opportunities.
 
 📬 Reach me at:
 - 🔗 LinkedIn: https://www.linkedin.com/in/namile-kavya-7104bb2a1
